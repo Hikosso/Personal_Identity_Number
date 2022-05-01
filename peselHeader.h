@@ -1,0 +1,4 @@
+#ifndef PESELHEADER_H
+#define PESELHEADER_H
+
+#endif // PESELHEADER_H
