@@ -1,9 +1,11 @@
 #include <iostream>
+#include "peselHeader.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    char option = chooseFunction();
+
     return 0;
 }
